@@ -1,0 +1,6 @@
+C:\Users\jdkan.DESKTOP-5QGQI8J\source\repos\HelloWorldDotnet\bin\Debug\HelloWorldDotnet.exe.config
+C:\Users\jdkan.DESKTOP-5QGQI8J\source\repos\HelloWorldDotnet\bin\Debug\HelloWorldDotnet.exe
+C:\Users\jdkan.DESKTOP-5QGQI8J\source\repos\HelloWorldDotnet\bin\Debug\HelloWorldDotnet.pdb
+C:\Users\jdkan.DESKTOP-5QGQI8J\source\repos\HelloWorldDotnet\obj\Debug\HelloWorldDotnet.csprojAssemblyReference.cache
+C:\Users\jdkan.DESKTOP-5QGQI8J\source\repos\HelloWorldDotnet\obj\Debug\HelloWorldDotnet.exe
+C:\Users\jdkan.DESKTOP-5QGQI8J\source\repos\HelloWorldDotnet\obj\Debug\HelloWorldDotnet.pdb
