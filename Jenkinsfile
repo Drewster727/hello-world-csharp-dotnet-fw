@@ -23,8 +23,7 @@ pipeline {
         
         stage('Deploy') {
             steps {
-                bat 'mkdir deploy'
-                archiveArtifacts artifacts: 'deploy/**', fingerprint: true
+                archiveArtifacts artifacts: 'bin/Release/**', fingerprint: true
             }
         }
     }
