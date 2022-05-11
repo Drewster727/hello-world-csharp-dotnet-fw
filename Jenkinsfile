@@ -5,6 +5,7 @@ pipeline {
     stages {
          stage('Restore nuget') {
             steps {
+                bat 'echo restoring...'
                 //bat 'nuget restore HelloWorldDotnet.sln' // for .NET framework
             }
         }
